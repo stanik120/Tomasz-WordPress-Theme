@@ -1,5 +1,3 @@
-# Tomasz-WordPress-Theme
-Simple theme for wordpress
 # Tomasz WordPress Theme
 * You can check this theme at:  [tomaszstanislawski.pl](http://tomaszstanislawski.pl/)
 * Free Download: [Mega](https://mega.nz/folder/GnoChZLb#MZWe0fvkvk_yp6FkUnHIVQ)
